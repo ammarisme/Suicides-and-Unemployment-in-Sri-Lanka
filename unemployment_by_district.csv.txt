@@ -1,0 +1,26 @@
+District	Unemployment_rate
+Colombo	3.6
+Gampaha	3.3
+Kalutara	2.5
+Kandy	5.1
+Matale	5.8
+Nuwara Eliya	2.7
+Galle	4.4
+Matara	5.2
+Hambantota	5.7
+Jaffna	10.7
+Mannar	3.8
+Vavunia	2.8
+Mullativu	4.8
+Kilinochchi	6.1
+Batticaloa	6.6
+Ampara	5.2
+Trincomalee	6.4
+Kurunegala	4
+Anuradhapura	4.6
+Polonnaruwa	3.6
+Badulla	4.6
+Monaragala	1.3
+Rathnapura	3.2
+Kegalle	4.3
+Puttalam	3
