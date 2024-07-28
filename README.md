@@ -1,5 +1,5 @@
 
-# Project Summary
+# Suicide patterns and data analysis (Sri Lanka)
 
 This project explores data and patterns of suicides in Sri Lanka. It aims to analyze the correlation between various factors such as unemployment, education level, civil status, mode of suicides, nature of occupation, and reasons for suicides with the incidence of suicides in the country.
 
